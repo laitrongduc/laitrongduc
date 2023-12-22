@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Lại Trọng Đức
 ---
 ## :book: About Me
-- 🧑‍🎓 I’m currently studying at University of Science, HCMC.
+- 🧑‍🎓 I’m currently studying Mathematics & Computer Science at the University of Science, HCMC.
 
 <!--## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=laitrongduc&hide_border=true)](https://git.io/streak-stats)
